@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "155885079554",
+    "firebase_url": "https://akilliev-c17c0-default-rtdb.firebaseio.com",
+    "project_id": "akilliev-c17c0",
+    "storage_bucket": "akilliev-c17c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155885079554:android:c87c09e5e14d9f14826b1b",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCROVkBzs6g1-EC16nHXERPONMm_k7Bkac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
